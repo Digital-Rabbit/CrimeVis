@@ -1,0 +1,7 @@
+Title: Crime Rate Visualization
+Author: Digital Rabbit
+AuthorUrl: https://github.com/Digital-Rabbit
+License: None
+DisplayMode: Showcase
+Tags: Coursera project
+Type: Shiny
